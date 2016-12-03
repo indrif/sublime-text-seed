@@ -1,22 +1,23 @@
 {
-	// set Predawn as the theme
-	"theme": "predawn-DEV.sublime-theme",
 	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
-	// indicatior when a file has been modified but not saved
 	"highlight_modified_tabs": true,
-	"tab_size": 2,
-	// off by default to avoid polluting history during committs
-	"translate_tabs_to_spaces": true,
-	// "draw_white_space": "all",
+	"ignored_packages":
+	[
+		"SideBarGit",
+		"Vintage"
+	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"predawn_findreplace_small": true,
+	"predawn_quick_panel_small": true,
+	"predawn_sidebar_xmsall": true,
+	"predawn_tabs_small": true,
 	"sidebar_medium": true,
+	"tab_size": 4,
 	"tabs_small": true,
-	"ignored_packages": [
-		// ignore vim-style commands
-		"Vintage"
-	]
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
