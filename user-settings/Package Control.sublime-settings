@@ -1,23 +1,29 @@
 {
 	"installed_packages":
 	[
-		"Package Control",
-		"Predawn",
-		"Emmet",
-		"EditorConfig",
-		"SublimeCodeIntel",
+		"All Autocomplete",
+		"Angular2 HTML Syntax",
 		"AutoFileName",
 		"Autoprefixer",
+		"BracketHighlighter",
 		"Can I Use",
+		"EditorConfig",
+		"Emmet",
 		"GhostText",
+		"Highlight Whitespaces",
 		"Markdown Preview",
+		"Package Control",
+		"Predawn",
+		"Python Imports Sorter",
+		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
 		"SideBarGit",
-		"Terminal",
-		"BracketHighlighter",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"SublimeLinter-json"
+		"SublimeLinter-json",
+		"Terminal",
+		"TrailingSpaces"
 	]
 }
